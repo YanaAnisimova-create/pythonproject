@@ -1,7 +1,7 @@
 # pythonproject
 Викторина
 https://colab.research.google.com/drive/1U40JvOzmGithQl8ApDe4svyxbqpIICBM#scrollTo=Wf5KrEb6vrkR
-
+https://drive.google.com/drive/u/0/folders/1fdlFZAY4gMNPkpEDBxkNzkWZM9ujTJq4?sort=13&direction=a
 Программа представляет собой простую викторину, в которой задаются три вопроса. Каждый вопрос имеет несколько вариантов ответа, и пользователь должен выбрать правильный. Программа проверяет, правильный ли ответ был выбран, и в конце выводит результат. 
 
 - Особенности:
